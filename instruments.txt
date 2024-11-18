@@ -4,3 +4,4 @@ piano
 keyboard
 ukulele
 flute
+bass
